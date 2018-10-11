@@ -1,0 +1,441 @@
+{
+  "project_info": {
+    "project_number": "407279050784",
+    "firebase_url": "https://drag-queen-comedy.firebaseio.com",
+    "project_id": "drag-queen-comedy",
+    "storage_bucket": "drag-queen-comedy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:92c097f586c2dad6",
+        "android_client_info": {
+          "package_name": "com.chinese.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:6abee85e426491df",
+        "android_client_info": {
+          "package_name": "com.clickbank.money.cpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:d48980a1071151c6",
+        "android_client_info": {
+          "package_name": "com.drag.queen.comedy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:84c706036dac8f36",
+        "android_client_info": {
+          "package_name": "com.gaytravelguide.melbourne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:7dadbbe1ce72b2b2",
+        "android_client_info": {
+          "package_name": "com.ingles.canciones.infantil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:8a249f3f1acabfca",
+        "android_client_info": {
+          "package_name": "com.iptvremote.pelisplusiptv.pelispluschromecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-e03ffgu8uk461n7l5psoalkq7v3qh1ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iptvremote.pelisplusiptv.pelispluschromecast",
+            "certificate_hash": "8e8e7276a637d17c7ef9863223b6dae206d2d790"
+          }
+        },
+        {
+          "client_id": "407279050784-eatslboqdc9dgob0bsqkbnschdknb8d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iptvremote.pelisplusiptv.pelispluschromecast",
+            "certificate_hash": "fb0a14e029556888609ed857a7d5b2b8d6695f57"
+          }
+        },
+        {
+          "client_id": "407279050784-45ktmbnfe0qclq5vf5orege4bo7dq8tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iptvremote.pelisplusiptv.pelispluschromecast",
+            "certificate_hash": "177d6848d7856111d77a5aaa041ef049b3350734"
+          }
+        },
+        {
+          "client_id": "407279050784-g264cflpqkq7nssnlmhu08j1qc69bsfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iptvremote.pelisplusiptv.pelispluschromecast",
+            "certificate_hash": "380cdbc75e326d81221fb7e0e5430c8a41a9a35a"
+          }
+        },
+        {
+          "client_id": "407279050784-gkir5l3pqrhkush403qf0511onqq3vc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iptvremote.pelisplusiptv.pelispluschromecast",
+            "certificate_hash": "10461fb0cf922f6ec26c9135caf85c47fbc21de7"
+          }
+        },
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:4694425b621a12a0",
+        "android_client_info": {
+          "package_name": "com.kungfu.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:230be26b42a9cb4a",
+        "android_client_info": {
+          "package_name": "com.mecanicaautomotriz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:dff07fdf1585b3c8",
+        "android_client_info": {
+          "package_name": "com.pelispluschromecast.musicplayerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:0b601972dbcfe1f9",
+        "android_client_info": {
+          "package_name": "com.pelispluschromecast.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:63a70f28b20c7767",
+        "android_client_info": {
+          "package_name": "com.quran.english.speakers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407279050784:android:8e0bc414a4dcaa5f",
+        "android_client_info": {
+          "package_name": "com.heavymetal.giphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407279050784-1f1f6niabn1ipma9hnjk1ke8j4b6vadn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heavymetal.giphy",
+            "certificate_hash": "380cdbc75e326d81221fb7e0e5430c8a41a9a35a"
+          }
+        },
+        {
+          "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfVNXeEK-OZ3_Gj2EQ6F1W8B7r6icz4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407279050784-2pndhicd1udfm70h7l4cc5d058dj5597.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
